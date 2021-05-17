@@ -5,7 +5,7 @@ import PackageDescription
 let package = Package(
     name: "AppReceiptValidator",
     platforms: [
-        .iOS("13.4"),
+        .iOS("12.4"),
         .macOS(.v10_11),
         .tvOS(.v11)
     ],
